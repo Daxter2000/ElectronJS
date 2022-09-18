@@ -1,0 +1,27 @@
+{
+  "name": "app01-intro",
+  "version": "1.0.0",
+  "description": "Firts App",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daxter2000/ElectronJS.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "electron"
+  ],
+  "author": "Alfredo Hernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Daxter2000/ElectronJS/issues"
+  },
+  "homepage": "https://github.com/Daxter2000/ElectronJS#readme",
+  "devDependencies": {
+    "electron": "^20.1.4"
+  }
+}
